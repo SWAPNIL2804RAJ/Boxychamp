@@ -11,5 +11,6 @@ and the main features of the centre is added using a rectangle and masking it.An
 Also I downloaded some of teh icons using website iconfinder.com and imported in figma.
 At last I designed the footer and made it a perfect poster.
 
-Here, is my First project on Figma.
+
+Here is my First project on Figma.
 ![BOXCHAMPY (1)](https://user-images.githubusercontent.com/124730254/232769346-cac7dbef-ca54-40cb-8b6f-d35b004f60b5.png)
